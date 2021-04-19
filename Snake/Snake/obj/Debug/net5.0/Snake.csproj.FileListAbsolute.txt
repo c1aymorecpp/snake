@@ -1,0 +1,16 @@
+C:\Учеба GeekBrains\Git\Задания\main\snake\Snake\Snake\bin\Debug\net5.0\Snake.exe
+C:\Учеба GeekBrains\Git\Задания\main\snake\Snake\Snake\bin\Debug\net5.0\Snake.deps.json
+C:\Учеба GeekBrains\Git\Задания\main\snake\Snake\Snake\bin\Debug\net5.0\Snake.runtimeconfig.json
+C:\Учеба GeekBrains\Git\Задания\main\snake\Snake\Snake\bin\Debug\net5.0\Snake.runtimeconfig.dev.json
+C:\Учеба GeekBrains\Git\Задания\main\snake\Snake\Snake\bin\Debug\net5.0\Snake.dll
+C:\Учеба GeekBrains\Git\Задания\main\snake\Snake\Snake\bin\Debug\net5.0\ref\Snake.dll
+C:\Учеба GeekBrains\Git\Задания\main\snake\Snake\Snake\bin\Debug\net5.0\Snake.pdb
+C:\Учеба GeekBrains\Git\Задания\main\snake\Snake\Snake\obj\Debug\net5.0\Snake.csprojAssemblyReference.cache
+C:\Учеба GeekBrains\Git\Задания\main\snake\Snake\Snake\obj\Debug\net5.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба GeekBrains\Git\Задания\main\snake\Snake\Snake\obj\Debug\net5.0\Snake.AssemblyInfoInputs.cache
+C:\Учеба GeekBrains\Git\Задания\main\snake\Snake\Snake\obj\Debug\net5.0\Snake.AssemblyInfo.cs
+C:\Учеба GeekBrains\Git\Задания\main\snake\Snake\Snake\obj\Debug\net5.0\Snake.csproj.CoreCompileInputs.cache
+C:\Учеба GeekBrains\Git\Задания\main\snake\Snake\Snake\obj\Debug\net5.0\Snake.dll
+C:\Учеба GeekBrains\Git\Задания\main\snake\Snake\Snake\obj\Debug\net5.0\ref\Snake.dll
+C:\Учеба GeekBrains\Git\Задания\main\snake\Snake\Snake\obj\Debug\net5.0\Snake.pdb
+C:\Учеба GeekBrains\Git\Задания\main\snake\Snake\Snake\obj\Debug\net5.0\Snake.genruntimeconfig.cache
